@@ -1,4 +1,6 @@
 a=5
 b=10
+d=34
 c=a-b+a*b
-print(c)
+e=c-d+a*b
+print(e)
